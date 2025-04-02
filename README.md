@@ -9,5 +9,6 @@
 
 <body>
   <h1>Teste</h1>
+  <p><strong>#vlog</strong></p>
 </body>
 </html>
